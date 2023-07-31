@@ -1,5 +1,4 @@
-# A Virtual Reality (VR) Exploration of Inhibitory 
-# Control and Working Memory in Adults with ADHD
+# A Virtual Reality (VR) Exploration of Inhibitory Control and Working Memory in Adults with ADHD
 
 Abstract
 Background: Inhibitory control deficit is associated with socio-economic
